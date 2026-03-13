@@ -5,9 +5,7 @@ No Cloud Risk: By eliminating server-side storage, the app removes the risk of d
 
 2. Tailored for the Sri Lankan Economy
 Up-to-Date Tax Brackets: Built specifically to handle the latest Inland Revenue Department (IRD) regulations, including APIT (Advanced Personal Income Tax) and individual income tax slabs.
-Localized Logic: Optimized for Sri Lankan financial standards, ensuring that calculations for reliefs, exemptions, and qualifying payments are accurate to local law.
-
-Beyond Just a Calculator: It’s not just for a one-time calculation; it features a dedicated interface for financial statements and revenue/expense tracking, turning it into a mini-accounting tool.
+Localized Logic: Optimized for Sri Lankan financial standards, ensuring that calculations for reliefs, exemptions, and qualifying payments are accurate to local law. Beyond Just a Calculator: It’s not just for a one-time calculation; it features a dedicated interface for financial statements and revenue/expense tracking, turning it into a mini-accounting tool.
 Year-Round Utility: Use it daily to track expenses and monthly to forecast your tax liability, rather than scrambling at the end of the fiscal year.
 
 3. Lightweight & Offline Capable
