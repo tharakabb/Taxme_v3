@@ -30,4 +30,3 @@ App Installation Instructions.
 3. Run this command in the terminal. "git clone https://github.com/tharakabb/Taxme_v3"
 4. Run the "install" file.
 5. Run the "Taxme App" file.
-nsactions, assets, and salary configurations.
