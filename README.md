@@ -7,19 +7,11 @@ No Cloud Risk: By eliminating server-side storage, the app removes the risk of d
 Up-to-Date Tax Brackets: Built specifically to handle the latest Inland Revenue Department (IRD) regulations, including APIT (Advanced Personal Income Tax) and individual income tax slabs.
 Localized Logic: Optimized for Sri Lankan financial standards, ensuring that calculations for reliefs, exemptions, and qualifying payments are accurate to local law.
 
-3. Open-Source Transparency
-Audit-Ready Code: As an open-source project on GitHub, the calculation logic is transparent. Anyone can verify that the math is correct and that there are no hidden "phone home" scripts.
-Community Driven: Benefit from a tool that is constantly improved and vetted by other developers and tax professionals in the community.
-
-4. All-in-One Financial Suite
 Beyond Just a Calculator: It’s not just for a one-time calculation; it features a dedicated interface for financial statements and revenue/expense tracking, turning it into a mini-accounting tool.
 Year-Round Utility: Use it daily to track expenses and monthly to forecast your tax liability, rather than scrambling at the end of the fiscal year.
 
-5. Lightweight & Offline Capable
+3. Lightweight & Offline Capable
 Work Anywhere: Because it doesn't rely on heavy cloud databases, the app is fast, responsive, and fully functional without an internet connection—perfect for managing finances on the go.
-
-6. Free & Accessible
-No Subscription Fees: Get professional-grade tax calculation and tracking features without the cost of proprietary accounting software.
 
 "Professional Sri Lankan tax management with the privacy of an offline vault. Your data, your device, your peace of mind."
 
